@@ -1,0 +1,3 @@
+this file is being used to demonstrate file handling in Python.
+Please refer FileHandling.py for further details.
+Hi this is a demo of write method Hi this is a demo of write method
