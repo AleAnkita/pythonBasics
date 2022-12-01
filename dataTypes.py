@@ -9,7 +9,7 @@ print("c=", c, "type of c", type(c))
 
 # The Sequence Type
 print("***************STRING*****************************")
-# Strings
+# Strings - Immutable
 msg = "Hi Ankita"
 print("msg=", msg, "type of a", type(msg))
 print(msg * 3)
