@@ -36,3 +36,8 @@ var1 = 9
 var2 = 3*3
 
 print("refer to same object : ", var1 is var2)
+
+# Ternary Operator in Python
+x = int(input("Enter a non negative number"))
+res = 1 if x==1 else x//2
+print("You entered %d This is the result %d" %(x, res))
